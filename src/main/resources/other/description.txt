@@ -1,0 +1,33 @@
+C:\Users\Sov\.jdks\openjdk-16.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\lib\idea_rt.jar=51711:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Sov\IdeaProjects\TestProject2\target\classes;C:\Users\Sov\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.2\jackson-databind-2.11.2.jar;C:\Users\Sov\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.2\jackson-annotations-2.11.2.jar;C:\Users\Sov\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.2\jackson-core-2.11.2.jar;C:\Users\Sov\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\Sov\.m2\repository\org\springframework\spring-core\2.5.6\spring-core-2.5.6.jar;C:\Users\Sov\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\Sov\.m2\repository\com\google\guava\guava\20.0\guava-20.0.jar;C:\Users\Sov\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Sov\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar test.TextCounter
+Кількість різний символів у тексті: 24
+Найменший степінь двійки (кількість бітів): 5
+Найменше значення степеню двійки: 32
+Символи у порядку зчитування: [п, р, и, в, і, т,  , м, е, н, е,  , з, в, а, т, и,  , с, є, в, а,  , я,  , м, о, ж, у,  , в, в, о, д, и, т, и,  , л, и, ш, е,  , с, л, о, в, а,  , з,  , м, а, л, е, н, ь, к, и, м, и,  , л, і, т, е, р, а, м, и,  , і,  , п, р, о, б, і, л, а, м, и]
+Символи у порядку спадання частоти:
+[ =13, и=9, а=6, в=6, м=6, е=5, л=5, т=4, і=4, о=4, р=3, с=2, з=2, н=2, п=2, у=1, ш=1, ь=1, я=1, б=1, є=1, д=1, ж=1, к=1]
+Шифр для р: 00000
+Шифр для  : 00001
+Шифр для с: 00010
+Шифр для т: 00011
+Шифр для у: 00100
+Шифр для ш: 00101
+Шифр для ь: 00110
+Шифр для я: 00111
+Шифр для а: 01000
+Шифр для б: 01001
+Шифр для в: 01010
+Шифр для є: 01011
+Шифр для д: 01100
+Шифр для е: 01101
+Шифр для і: 01110
+Шифр для ж: 01111
+Шифр для з: 10000
+Шифр для и: 10001
+Шифр для к: 10010
+Шифр для л: 10011
+Шифр для м: 10100
+Шифр для н: 10101
+Шифр для о: 10110
+Шифр для п: 10111
+
+Process finished with exit code 0

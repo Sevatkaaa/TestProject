@@ -1,5 +1,1 @@
-Hello, my name is Sov
-
-Hi, Sov, my name is Viktor
-
-Nice to meet you, Victor sov
+привіт мене звати сєва я можу вводити лише слова з маленькими літерами і пробілами
